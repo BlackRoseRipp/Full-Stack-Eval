@@ -6,10 +6,10 @@
 
 > Given a SQL database with the following table full of data  
 > CREATE TABLE countries (  
-> $nbsp;$nbsp;code CHAR(2) NOT NULL,  
-> $nbsp;$nbsp;year INT NOT NULL,  
-> $nbsp;$nbsp;gdp_per_capita DECIMAL(10, 2) NOT NULL,  
-> $nbsp;$nbsp;govt_debt DECIMAL(10, 2) NOT NULL  
+> &nbsp;&nbsp;code CHAR(2) NOT NULL,  
+> &nbsp;&nbsp;year INT NOT NULL,  
+> &nbsp;&nbsp;gdp_per_capita DECIMAL(10, 2) NOT NULL,  
+> &nbsp;&nbsp;govt_debt DECIMAL(10, 2) NOT NULL  
 > );
 
 > Please write the SQL statement to show the top 3 average government debts in percent of the

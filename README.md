@@ -1,6 +1,6 @@
 # Full Stack Test
 
-### _Tom RIpp_
+### _Tom Ripp_
 
 ## Q1. Given a SQL database with the following table full of data
 
